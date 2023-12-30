@@ -1,3 +1,3 @@
 
-<h1 align="center">Hi 👋, I am Beimnet Tadesse</h1>
+<h1 align="center">Hey there 👋</h1>
 

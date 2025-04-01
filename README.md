@@ -5,16 +5,11 @@
 
 ### 📊 GitHub Stats:
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beimnettadesse&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-    </td>
-    <td>
+
+
       <img src="https://github-readme-stats.vercel.app/api?username=beimnettadesse&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+
+
 
 
 ---

@@ -8,6 +8,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beimnettadesse&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=beimnettadesse&theme=tokyonight&hide_border=true)
 
 ### 🛠️ Languages and Tools:
 

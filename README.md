@@ -1,54 +1,58 @@
-<h1 align="center">🚀 Hi 👋, I'm Nina, Your Next Favorite Dev</h1>
-<h3 align="center">💻 Frontend Sorcerer | JavaScript Wizard | Ethiopia's Tech Queen 👑</h3>
+
+<h3 align="center">A junior frontend developer</h3>
 
 ---
 
-<style>
-  body { background-color: black; color: white; font-family: 'Arial', sans-serif; }
-  .glow { text-shadow: 0 0 10px cyan, 0 0 20px blue; animation: flicker 1.5s infinite alternate; }
-  .dynamic-container { display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; }
-  .dynamic-item { transition: transform 0.5s, box-shadow 0.5s; cursor: pointer; }
-  .dynamic-item:hover { transform: scale(1.1) rotate(3deg); box-shadow: 0px 0px 20px cyan; }
-  @keyframes flicker { 0% { opacity: 1; } 100% { opacity: 0.8; } }
-</style>
+### 📊 GitHub Stats:
 
-<div align="center">
-  <h2 class="glow">🌌 Cosmic GitHub Stats</h2>
-  
-  <div class="dynamic-container">
-    <img class="dynamic-item" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beimnettadesse&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
-    <img class="dynamic-item" src="https://github-readme-stats.vercel.app/api?username=beimnettadesse&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  </div>
-  
-  <h2 class="glow">🔥 Streak Mode</h2>
-  <img class="dynamic-item" src="https://streak-stats.demolab.com?user=beimnettadesse&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beimnettadesse&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=beimnettadesse&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-  <h2 class="glow">⚡ Secret Developer Tools</h2>
-  <p>Hover over these to feel the **power** ⚡</p>
-  
-  <div class="dynamic-container">
-    <img class="dynamic-item" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
-    <img class="dynamic-item" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/>
-    <img class="dynamic-item" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
-    <img class="dynamic-item" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-    <img class="dynamic-item" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-    <img class="dynamic-item" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  </div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=beimnettadesse&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-  <h2 class="glow">🎶 Bonus: Background Music</h2>
-  <audio controls autoplay loop>
-    <source src="https://example.com/your-awesome-music.mp3" type="audio/mpeg">
-  </audio>
+---
 
-  <p>**Press play and vibe while scrolling! 🎵**</p>
-</div>
+### 🛠️ Languages and Tools:
 
-<script>
-  document.querySelectorAll(".dynamic-item").forEach((item) => {
-    item.addEventListener("click", () => {
-      alert("💥 Boom! You clicked an epic item. Power unlocked!");
-    });
-  });
-</script>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+### 🌱 I’m currently learning:
+- Next.js, Node.js, and Advanced React
+
+### 👯 I’m looking to collaborate on:
+- Open-source projects and frontend development
+
+### 🤝 I’m looking for help with:
+- Backend best practices and API development
 
 ---

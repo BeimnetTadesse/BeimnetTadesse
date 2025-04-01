@@ -1,14 +1,26 @@
-<h1 align="center">Hi 👋, I'm Nina</h1>
-<h3 align="center">A junior frontend developer from Ethiopia</h3>
+
+<h3 align="center">A junior frontend developer </h3>
 
 ---
+
 ### 📊 GitHub Stats:
 
-![Beimnet Tadesse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beimnettadesse&show_icons=true&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beimnettadesse&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=beimnettadesse&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beimnettadesse&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=beimnettadesse&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=beimnettadesse&theme=tokyonight&hide_border=true)
+---
 
 ### 🛠️ Languages and Tools:
 

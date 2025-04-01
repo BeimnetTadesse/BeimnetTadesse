@@ -2,6 +2,12 @@
 <h3 align="center">A junior frontend developer from Ethiopia</h3>
 
 ---
+### 📊 GitHub Stats:
+
+![Beimnet Tadesse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beimnettadesse&show_icons=true&theme=tokyonight)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beimnettadesse&layout=compact&theme=tokyonight)
+
 
 ### 🛠️ Languages and Tools:
 

@@ -44,15 +44,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
----
-
-### 🌱 I’m currently learning:
-- Next.js, Node.js, and Advanced React
-
-### 👯 I’m looking to collaborate on:
-- Open-source projects and frontend development
-
-### 🤝 I’m looking for help with:
-- Backend best practices and API development
 
 ---

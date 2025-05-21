@@ -1,4 +1,6 @@
+<h3 align="center">A junior frontend developer</h3>
 
+---
 
 ### 🛠️ Languages and Tools:
 
@@ -20,3 +22,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
+---

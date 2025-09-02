@@ -2,19 +2,7 @@
 
 ---
 
-### Software Engineer | Web Developer
-
----
-
-## 📊 GitHub Stats
-
-| Metric | Value |
-|--------|-------|
-| **Total Stars Earned** | ![GitHub Stars](https://img.shields.io/github/stars/BeimnetTadesse?style=social) |
-| **Total Commits (This Year)** | ![GitHub Commits](https://img.shields.io/github/commit-activity/y/BeimnetTadesse) |
-| **Total PRs** | ![GitHub PRs](https://img.shields.io/github/issues-pr/BeimnetTadesse?style=flat-square) |
-| **Total Issues** | ![GitHub Issues](https://img.shields.io/github/issues/BeimnetTadesse?style=flat-square) |
-| **Contributed To** | ![GitHub Repos Contributed](https://img.shields.io/github/contributors-anon/BeimnetTadesse?style=flat-square) |
+<h4 align ="center">Software Engineer | Web Developer </h4>
 
 ---
 

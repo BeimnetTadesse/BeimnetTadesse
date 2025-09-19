@@ -52,7 +52,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" alt="Git" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" alt="GitHub" />
-      <img src="https://raw.githubusercontent.com/rangav/thunder-client-support/master/images/thunder-icon.svg" width="30" alt="Thunder Client" />
     </td>
   </tr>
 </table>

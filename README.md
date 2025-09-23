@@ -35,9 +35,9 @@
     <td align="center" width="250" valign="top">
       <b>⚛️ Frontend</b><br><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" alt="React" />
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="30" alt="Next.js" />
       <img src="https://vitejs.dev/logo.svg" width="30" alt="Vite" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30" alt="Tailwind CSS" />
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="30" alt="Next.js" />
     </td>
     <td align="center" width="250" valign="top">
       <b>🚀 Backend</b><br><br>

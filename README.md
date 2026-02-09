@@ -9,13 +9,7 @@
 - 📚 Continuously expanding my skill set and exploring new technologies  
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeimnetTadesse&layout=compact&theme=radical" height="180" />
-</p>
-
----
+ 
 
 ## 🛠️ Tech Stack
 

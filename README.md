@@ -58,8 +58,6 @@
   </tr>
 </table>
 
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/beimnet-tadesse-2339b8287/" target="_blank">

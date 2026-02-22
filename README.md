@@ -7,8 +7,6 @@
 - 💻 Passionate about **full-stack development** and building end-to-end solutions  
 - ⚡ Love crafting **scalable applications** with intuitive UI and robust backend systems  
 - 📚 Continuously expanding my skill set and exploring new technologies  
-
----
  
 
 ## 🛠️ Tech Stack

@@ -1,8 +1,6 @@
 <h2 align="center">👋 Hey, I'm Beimnet</h2>
 <h4 align="center">Software Engineer | Full-Stack Developer</h4>
 
----
-
 ### 🚀 About Me
 - 💻 Passionate about **full-stack development** and building end-to-end solutions  
 - ⚡ Love crafting **scalable applications** with intuitive UI and robust backend systems  
@@ -24,7 +22,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" />
     </td>
----
     <td align="center" width="250" valign="top">
       <b>⚛️ Frontend</b><br><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" />
@@ -33,7 +30,6 @@
       <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="30" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="30" />
     </td>
----
     <td align="center" width="250" valign="top">
       <b>🚀 Backend</b><br><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="30" />
@@ -41,7 +37,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="30" />
     </td>
----
     <td align="center" width="250" valign="top">
       <b>🗄️ Databases & Tools</b><br><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" />
